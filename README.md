@@ -1,6 +1,6 @@
 # LaTeX to SVG Converter
 
-![image](https://github.com/user-attachments/assets/918c3494-1961-4ba0-a26a-ef60a99b2060)
+<img src="https://github.com/user-attachments/assets/918c3494-1961-4ba0-a26a-ef60a99b2060" width="50%" />
 
 
 ### Installation Instructions
