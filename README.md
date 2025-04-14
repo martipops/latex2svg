@@ -1,5 +1,15 @@
-# Vue 3 + TypeScript + Vite
+# LaTeX to SVG Converter
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+### Instructions
+1. Install [node.js](https://nodejs.org/en/download)
+2. Clone the repo:
+```bash
+git clone https://github.com/martipops/latex2svg
+```
+3. Install dependencies and run the server:
+```bash
+cd latex2svg
+npm i
+npm run dev
+```
+4. Access the page at http://localhost:5173
